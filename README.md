@@ -8,8 +8,8 @@ dk 本人很喜欢看小说，so，开了这个工程，将遇到的感兴趣的
 
 ### 计划开发
 
-- [ ] h5 端 - vant 实现一版
-- [ ] web 端 - react hook 实现一版
+- [ ] 公羊阅读后管系统 - `React-hook + Typescript + Umi + Antd`
+- [ ] 公羊阅读跨多端应用 - `uni-app`
 
 ### 待重构
 
@@ -31,7 +31,7 @@ dk 本人很喜欢看小说，so，开了这个工程，将遇到的感兴趣的
 
 **客户端：h5**
 
-- [x] [client_h5_vant](https://github.com/py-novel/client_h5_vant)（开发中）
+- [x] [client_h5_vant](https://github.com/py-novel/client_h5_vant)
 
 ### 更新日志
 
