@@ -8,7 +8,6 @@ dk 本人很喜欢看小说，so，开了这个工程，将遇到的感兴趣的
 
 ### 计划开发
 
-- [ ] 公羊阅读后管系统 - `React-hook + Typescript + Umi + Antd`
 - [ ] 公羊阅读跨多端应用 - `uni-app`
 
 ### 待重构
@@ -32,6 +31,10 @@ dk 本人很喜欢看小说，so，开了这个工程，将遇到的感兴趣的
 **客户端：h5**
 
 - [x] [client_h5_vant](https://github.com/py-novel/client_h5_vant)
+
+**客户端：后管系统**
+
+- [x] [client_admin-antd](https://github.com/py-novel/client_admin_antd)
 
 ### 更新日志
 

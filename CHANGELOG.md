@@ -1,6 +1,12 @@
+### 2019年11月19日
+
+完成 client_admin_antd 单表增删改查开发，对 ts 和 hook 又有进一步体会。
+
 ### 2019年11月17日
 
 vant 重写完成。
+
+工作中一直在用 umi 框架，想要集成 typescript 和 hook，开个工程练习一下 umi + ts + react-hook 的使用。
 
 ### 2019年11月14日
 
