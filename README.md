@@ -8,12 +8,12 @@ dk 本人很喜欢看小说，so，开了这个工程，将遇到的感兴趣的
 
 ### 计划开发
 
+- [ ] client_mobile_flutter （开发中）
 - [ ] 公羊阅读跨多端应用 - `uni-app`
 
 ### 待重构
 
 - [ ] client_mobile_android
-- [ ] client_mobile_flutter
 - [ ] client_mobile_rn
 - [ ] server_python_flask
 
