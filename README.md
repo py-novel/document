@@ -4,6 +4,10 @@
 
 dk 本人很喜欢看小说，so，开了这个工程，将遇到的感兴趣的技术、框架都怼一遍实践项目。古代将军练兵讲究以战养兵，进步神速，dk 效仿之。
 
+# 设计
+
+- [x] [原型图设计](https://www.xiaopiu.com/h5/byId?type=project&id=5de61b416b1b5a71bc47eb71)（xiaopie）
+
 # 技术栈
 
 ### 计划开发
