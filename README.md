@@ -6,13 +6,12 @@ dk 本人很喜欢看小说，so，开了这个工程，将遇到的感兴趣的
 
 # 设计
 
-- [x] [原型图设计](https://www.xiaopiu.com/h5/byId?type=project&id=5de61b416b1b5a71bc47eb71)（xiaopie）
+- [x] [原型图设计](https://www.xiaopiu.com/h5/byId?type=project&id=5de61b416b1b5a71bc47eb71)（xiaopiu）
 
 # 技术栈
 
 ### 计划开发
 
-- [x] client_mobile_flutter （第一版完成，基本流程跑通，后续美化页面、重构代码以及整理笔记）
 - [ ] 公羊阅读跨多端应用 - `uni-app`
 
 ### 待重构
@@ -31,6 +30,10 @@ dk 本人很喜欢看小说，so，开了这个工程，将遇到的感兴趣的
 
 - [x] [client_mobile_miniapp](https://github.com/py-novel/client_mobile_miniapp)
 - [x] [client_mobile_taro](https://github.com/py-novel/client_mobile_taro)
+
+**客户端：app**
+
+- [x] [client_mobile_flutter](https://github.com/py-novel/client_mobile_flutter)
 
 **客户端：h5**
 

@@ -1,3 +1,7 @@
+### 2019年12月30日
+
+Flutter 项目开发完成，内测通过，发布 [v1.0.0-beta.1](https://github.com/py-novel/client_mobile_flutter/releases/tag/v1.0.0-beta.1)
+
 ### 2019年12月26日
 
 补充原型图设计，使用 xiaopie 在线设计工具。
