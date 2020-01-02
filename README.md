@@ -51,7 +51,7 @@ dk 本人很喜欢看小说，so，开了这个工程，将遇到的感兴趣的
 
 ### Android with Flutter
 
-[download APK](https://github.com/py-novel/client_mobile_flutter/releases/tag/v1.0.0-beta.1)
+[download APK 1.1.0-beta.1](https://github.com/py-novel/client_mobile_flutter/releases/tag/1.1.0-beta.1)
 
 ### 二维码
 
