@@ -1,3 +1,11 @@
+### 2020年11月02日
+
+用 uniapp 写了一版 h5，并部署到 [线上](https://novel.dkvirus.top)，原本还准备打包 apk 的，在手机上不发请求，还在定位原因中。
+
+### 2020年10月31日
+
+用 python 重写了一版爬虫，使用了工厂模式，可以扩展小说源，解决了小程序一直以来小说源不足的问题。
+
 ### 2019年12月30日
 
 Flutter 项目开发完成，内测通过，发布 [v1.0.0-beta.1](https://github.com/py-novel/client_mobile_flutter/releases/tag/v1.0.0-beta.1)
